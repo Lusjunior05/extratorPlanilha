@@ -4,6 +4,7 @@ from tkinter import filedialog
 from tkinter import messagebox
 
 
+
 # Definir a janela principal da interface gráfica
 root = tk.Tk()
 root.title("Extrair Dados de Planilha")
